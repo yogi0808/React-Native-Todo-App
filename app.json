@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#DDDDDD"
-      }
+      },
+      "package": "com.yogi08.todoapp"
     },
     "web": {
       "bundler": "metro",
