@@ -2,7 +2,7 @@
   "expo": {
     "name": "Todo",
     "slug": "todo-app",
-    "scheme": "Todo",
+    "scheme": "todo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
