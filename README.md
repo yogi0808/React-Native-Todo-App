@@ -13,7 +13,7 @@ This is a simple To-Do app built using React Native and Expo. The app allows use
 
 You can download the APK file to install the app on your Android device:
 
-- [Download APK](https://expo.dev/artifacts/eas/9eh2xYjQBEeg3X86oS9AgX.apk)
+- [Download APK](https://expo.dev/artifacts/eas/qnBKZhewcexqvN2e62gJK2.apk)
 
 ## Usage
 
