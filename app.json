@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Todo",
-    "slug": "Todo",
+    "slug": "todo-app",
     "scheme": "Todo",
     "version": "1.0.0",
     "orientation": "portrait",
