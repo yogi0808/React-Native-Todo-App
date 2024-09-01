@@ -23,8 +23,8 @@ You can download the APK file to install the app on your Android device:
 
 ## Screenshots
 
-<img src="./assets///screenShot/1.jpg" width="49%">
-<img src="./assets///screenShot/2.jpg" width="49%">
+<img src="./assets///screenShot/1.jpg" width="200">
+<img src="./assets///screenShot/2.jpg" width="200">
 
-<img src="./assets///screenShot/3.jpg" width="49%">
-<img src="./assets///screenShot/4.jpg" width="49%">
+<img src="./assets///screenShot/3.jpg" width="200">
+<img src="./assets///screenShot/4.jpg" width="200">
